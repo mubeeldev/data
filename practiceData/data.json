@@ -1,44 +1,54 @@
 {
-    "blogs":[
-        {
-            "id":1,
-            "title":"Understanding JavaScript Closures",
-            "content":"A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment)."
-        },
-        {
-            "id":2,
-            "title":"A Guide to Flexbox in CSS",
-            "content":"Flexbox is a one-dimensional layout method for arranging items in rows or columns. It helps to distribute space and align items within a container."
-        },
-        {
-            "id":3,
-            "title":"Getting Started with React",
-            "content":"React is a JavaScript library for building user interfaces. It allows developers to create large web applications that can update and render efficiently in response to data changes."
-        },
-        {
-            "id":4,
-            "title":"Introduction to Python Generators",
-            "content":"Generators are a simple and powerful tool for creating iterators. They allow you to declare a function that behaves like an iterator, i.e., it can be used in a for loop."
-        },
-        {
-            "id":5,
-            "title":"Understanding Asynchronous Programming in JavaScript",
-            "content":"Asynchronous programming is a programming paradigm that allows for non-blocking operations, enabling the program to continue executing while waiting for other operations to complete."
-        },
-        {
-            "id":6,
-            "title":"Getting Started with Docker",
-            "content":"Docker is a platform that enables developers to automate the deployment of applications inside lightweight, portable containers."
-        },
-        {
-            "id":7,
-            "title":"An Introduction to Machine Learning",
-            "content":"Machine learning is a subset of artificial intelligence that focuses on building systems that can learn from and make decisions based on data."
-        },
-        {
-            "id":8,
-            "title":"Understanding RESTful APIs",
-            "content":"RESTful APIs are web services that adhere to the principles of Representational State Transfer (REST) architecture, allowing for interaction with web services using standard HTTP methods."
-        }
-    ]
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Understanding JavaScript Closures",
+      "content": "A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment)."
+    },
+    {
+      "id": "2",
+      "title": "A Guide to Flexbox in CSS",
+      "content": "Flexbox is a one-dimensional layout method for arranging items in rows or columns. It helps to distribute space and align items within a container."
+    },
+    {
+      "id": "3",
+      "title": "Getting Started with React",
+      "content": "React is a JavaScript library for building user interfaces. It allows developers to create large web applications that can update and render efficiently in response to data changes."
+    },
+    {
+      "id": "4",
+      "title": "Introduction to Python Generators",
+      "content": "Generators are a simple and powerful tool for creating iterators. They allow you to declare a function that behaves like an iterator, i.e., it can be used in a for loop."
+    },
+    {
+      "id": "5",
+      "title": "Understanding Asynchronous Programming in JavaScript",
+      "content": "Asynchronous programming is a programming paradigm that allows for non-blocking operations, enabling the program to continue executing while waiting for other operations to complete."
+    },
+    {
+      "id": "6",
+      "title": "Getting Started with Docker",
+      "content": "Docker is a platform that enables developers to automate the deployment of applications inside lightweight, portable containers."
+    },
+    {
+      "id": "7",
+      "title": "An Introduction to Machine Learning",
+      "content": "Machine learning is a subset of artificial intelligence that focuses on building systems that can learn from and make decisions based on data."
+    },
+    {
+      "id": "8",
+      "title": "Understanding RESTful APIs",
+      "content": "RESTful APIs are web services that adhere to the principles of Representational State Transfer (REST) architecture, allowing for interaction with web services using standard HTTP methods."
+    },
+    {
+      "id": "3286",
+      "title": "saudatu ",
+      "content": "she is a girl that always crying to her mother without any reason"
+    },
+    {
+      "id": "67fd",
+      "title": "ishaq",
+      "content": "a boy that dont have a syreouse  at all he always laugh and trying to make people laugh and laughing is a sign of madness"
+    }
+  ]
 }
